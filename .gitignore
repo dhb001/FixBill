@@ -1,0 +1,4 @@
+# Secrets — never commit. .env holds the PayPal sandbox Client ID/Secret.
+.env
+__pycache__/
+*.pyc
